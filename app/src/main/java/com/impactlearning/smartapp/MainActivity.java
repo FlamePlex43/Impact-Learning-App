@@ -1,4 +1,4 @@
-package com.example.smartapp;
+package com.impactlearning.smartapp;
 
 import android.content.Intent;
 import android.os.Bundle;
